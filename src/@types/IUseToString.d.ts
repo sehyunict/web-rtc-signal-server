@@ -1,0 +1,5 @@
+interface IUseToString {
+
+    toString(): string;
+
+}
